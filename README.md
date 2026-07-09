@@ -1,2 +1,2 @@
-# NEO-CRAFT-2
+# NEO-CRAFT
 Neo Projects(new game)
